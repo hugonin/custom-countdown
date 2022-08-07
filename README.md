@@ -24,7 +24,7 @@ The project is a part of my Javascript web projects.
 
 List of features:
 
-- Responsive navigation
+- Responsive layout
 - Local storage
 - Video background
 
